@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\bin\Debug\netcoreapp3.1\referance type and value type.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\bin\Debug\netcoreapp3.1\referance type and value type.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\bin\Debug\netcoreapp3.1\referance type and value type.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\bin\Debug\netcoreapp3.1\referance type and value type.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\bin\Debug\netcoreapp3.1\referance type and value type.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\bin\Debug\netcoreapp3.1\referance type and value type.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\referance type and value type\referance type and value type\obj\Debug\netcoreapp3.1\referance type and value type.genruntimeconfig.cache
